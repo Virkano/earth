@@ -1,0 +1,843 @@
+{
+	"status": true,
+	"data": {
+		"nodeTreeList": [
+			{
+				"node": {
+					"id": 2,
+					"nodeName": "中国",
+					"nodeNameAbbr": "CHINA",
+					"nodeLevel": 2,
+					"nodeParentId": 1,
+					"nodeLocationNumber": "1",
+					"nodeChinaFlag": null,
+					"nodeSystemFlag": null,
+					"isdelete": 0,
+					"createTime": "2021-03-10 08:27:32",
+					"updateTime": "2021-03-10 08:27:32"
+				},
+				"childNodeTree": [
+					{
+						"node": {
+							"id": 3,
+							"nodeName": "国家标准化管理委员会",
+							"nodeNameAbbr": "SAC",
+							"nodeLevel": 3,
+							"nodeParentId": 2,
+							"nodeLocationNumber": "1",
+							"nodeChinaFlag": 1,
+							"nodeSystemFlag": 0,
+							"isdelete": 0,
+							"createTime": "2021-03-10 08:39:17",
+							"updateTime": "2021-03-10 08:39:17"
+						},
+						"childNodeTree": [
+							{
+								"node": {
+									"id": 4,
+									"nodeName": "全国汽车标准化委员会",
+									"nodeNameAbbr": "TC114",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "1",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 08:40:08",
+									"updateTime": "2021-03-10 08:40:08"
+								},
+								"childNodeTree": [
+									{
+										"node": {
+											"id": 13,
+											"nodeName": "智能网联汽车分标委",
+											"nodeNameAbbr": "SC34",
+											"nodeLevel": 3,
+											"nodeParentId": 4,
+											"nodeLocationNumber": "",
+											"nodeChinaFlag": 1,
+											"nodeSystemFlag": 1,
+											"isdelete": 0,
+											"createTime": "2021-03-10 13:55:17",
+											"updateTime": "2021-07-09 03:04:27"
+										},
+										"childNodeTree": [
+											{
+												"node": {
+													"id": 34,
+													"nodeName": "先进驾驶辅助标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 13,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:02:49",
+													"updateTime": "2021-03-10 14:02:49"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											},
+											{
+												"node": {
+													"id": 35,
+													"nodeName": "自动驾驶标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 13,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:02:57",
+													"updateTime": "2021-03-10 14:02:57"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											},
+											{
+												"node": {
+													"id": 36,
+													"nodeName": "信息安全标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 13,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:03:06",
+													"updateTime": "2021-03-10 14:03:06"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											},
+											{
+												"node": {
+													"id": 37,
+													"nodeName": "网联功能和应用标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 13,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:03:16",
+													"updateTime": "2021-03-10 14:03:16"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											},
+											{
+												"node": {
+													"id": 38,
+													"nodeName": "资源管理与信息服务标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 13,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:03:42",
+													"updateTime": "2021-03-10 14:03:42"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											}
+										],
+										"organizeDescribeFlag": true,
+										"systemFlag": true
+									},
+									{
+										"node": {
+											"id": 14,
+											"nodeName": "电子与电磁兼容分标委",
+											"nodeNameAbbr": "SC29",
+											"nodeLevel": 3,
+											"nodeParentId": 4,
+											"nodeLocationNumber": "",
+											"nodeChinaFlag": 1,
+											"nodeSystemFlag": 0,
+											"isdelete": 0,
+											"createTime": "2021-03-10 13:55:33",
+											"updateTime": "2021-07-09 02:42:01"
+										},
+										"childNodeTree": [
+											{
+												"node": {
+													"id": 33,
+													"nodeName": "功能安全标准工作组",
+													"nodeNameAbbr": "",
+													"nodeLevel": 3,
+													"nodeParentId": 14,
+													"nodeLocationNumber": "1",
+													"nodeChinaFlag": 1,
+													"nodeSystemFlag": 0,
+													"isdelete": 0,
+													"createTime": "2021-03-10 14:01:53",
+													"updateTime": "2021-03-10 14:01:53"
+												},
+												"childNodeTree": [],
+												"organizeDescribeFlag": false,
+												"systemFlag": false
+											}
+										],
+										"organizeDescribeFlag": true,
+										"systemFlag": false
+									},
+									{
+										"node": {
+											"id": 195,
+											"nodeName": "灯具及灯光分标委",
+											"nodeNameAbbr": "SC21",
+											"nodeLevel": 3,
+											"nodeParentId": 4,
+											"nodeLocationNumber": "",
+											"nodeChinaFlag": 1,
+											"nodeSystemFlag": 0,
+											"isdelete": 0,
+											"createTime": "2021-07-09 02:27:31",
+											"updateTime": "2021-07-09 03:30:04"
+										},
+										"childNodeTree": [],
+										"organizeDescribeFlag": true,
+										"systemFlag": false
+									}
+								],
+								"organizeDescribeFlag": true,
+								"systemFlag": true
+							},
+							{
+								"node": {
+									"id": 5,
+									"nodeName": "全国智能运输系统标准化技术委员会",
+									"nodeNameAbbr": "TC268",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 1,
+									"isdelete": 0,
+									"createTime": "2021-03-10 08:41:08",
+									"updateTime": "2021-03-16 03:41:01"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": true
+							},
+							{
+								"node": {
+									"id": 6,
+									"nodeName": "全国信息技术标准化技术委员会",
+									"nodeNameAbbr": "TC28",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 1,
+									"isdelete": 0,
+									"createTime": "2021-03-10 08:41:21",
+									"updateTime": "2021-03-16 04:29:47"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": true
+							},
+							{
+								"node": {
+									"id": 8,
+									"nodeName": "全国通信标准化技术委员会",
+									"nodeNameAbbr": "TC485",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 1,
+									"isdelete": 0,
+									"createTime": "2021-03-10 08:41:48",
+									"updateTime": "2021-03-16 04:22:28"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": true
+							},
+							{
+								"node": {
+									"id": 11,
+									"nodeName": "全国道路交通管理标准化技术委员会",
+									"nodeNameAbbr": "TC576",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 1,
+									"isdelete": 0,
+									"createTime": "2021-03-10 08:49:03",
+									"updateTime": "2021-03-16 03:41:06"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": true
+							},
+							{
+								"node": {
+									"id": 192,
+									"nodeName": "全国信息安全标准化技术委员会",
+									"nodeNameAbbr": "TC260",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "1",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-22 03:34:26",
+									"updateTime": "2021-03-22 03:34:26"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 196,
+									"nodeName": "全国道路运输标准化技术委员会",
+									"nodeNameAbbr": "TC521",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "1",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-12 02:50:27",
+									"updateTime": "2021-07-12 02:50:27"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 197,
+									"nodeName": "全国交通工程设施（公路）标准化技术委员会",
+									"nodeNameAbbr": "TC223",
+									"nodeLevel": 3,
+									"nodeParentId": 3,
+									"nodeLocationNumber": "1",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-12 03:09:17",
+									"updateTime": "2021-07-12 03:09:17"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							}
+						],
+						"organizeDescribeFlag": true,
+						"systemFlag": false
+					},
+					{
+						"node": {
+							"id": 39,
+							"nodeName": "上海市地方标准",
+							"nodeNameAbbr": "SH",
+							"nodeLevel": 3,
+							"nodeParentId": 2,
+							"nodeLocationNumber": "2",
+							"nodeChinaFlag": 1,
+							"nodeSystemFlag": 0,
+							"isdelete": 0,
+							"createTime": "2021-03-10 14:04:40",
+							"updateTime": "2021-03-10 14:04:40"
+						},
+						"childNodeTree": [
+							{
+								"node": {
+									"id": 189,
+									"nodeName": "上海市智能网联汽车及应用标准化技术委员会",
+									"nodeNameAbbr": "",
+									"nodeLevel": 3,
+									"nodeParentId": 39,
+									"nodeLocationNumber": "2",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-16 05:45:53",
+									"updateTime": "2021-03-16 05:45:53"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 198,
+									"nodeName": "上海市新能源汽车及应用标准化技术委员会",
+									"nodeNameAbbr": "",
+									"nodeLevel": 3,
+									"nodeParentId": 39,
+									"nodeLocationNumber": "2",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-12 08:08:31",
+									"updateTime": "2021-07-12 08:08:31"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							}
+						],
+						"organizeDescribeFlag": true,
+						"systemFlag": false
+					},
+					{
+						"node": {
+							"id": 40,
+							"nodeName": "团体标准",
+							"nodeNameAbbr": "TEAM",
+							"nodeLevel": 3,
+							"nodeParentId": 2,
+							"nodeLocationNumber": "5",
+							"nodeChinaFlag": 1,
+							"nodeSystemFlag": 0,
+							"isdelete": 0,
+							"createTime": "2021-03-10 14:05:36",
+							"updateTime": "2021-03-10 14:05:36"
+						},
+						"childNodeTree": [
+							{
+								"node": {
+									"id": 45,
+									"nodeName": "中国汽车工业协会",
+									"nodeNameAbbr": "CCAMTB",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:07:36",
+									"updateTime": "2021-03-10 14:07:36"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 46,
+									"nodeName": "中国汽车工程学会",
+									"nodeNameAbbr": "CSAE",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:07:45",
+									"updateTime": "2021-03-10 14:07:45"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 47,
+									"nodeName": "中国道路交通安全协会",
+									"nodeNameAbbr": "CTS",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:07:54",
+									"updateTime": "2021-03-10 14:07:54"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 50,
+									"nodeName": "中国重型机械工业协会",
+									"nodeNameAbbr": "CHMIA",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:08:28",
+									"updateTime": "2021-03-10 14:08:28"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 200,
+									"nodeName": "中国标准化协会",
+									"nodeNameAbbr": "CAS ",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-14 02:59:13",
+									"updateTime": "2021-07-14 02:59:13"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 202,
+									"nodeName": "上海市汽车工程学会",
+									"nodeNameAbbr": " SSAE",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-14 03:02:49",
+									"updateTime": "2021-07-14 03:02:49"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 206,
+									"nodeName": "上海市标准化协会",
+									"nodeNameAbbr": "SAS",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-14 03:11:04",
+									"updateTime": "2021-07-14 03:11:04"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 227,
+									"nodeName": "北京汽车行业协会",
+									"nodeNameAbbr": "BJQC",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:29:58",
+									"updateTime": "2021-07-15 02:29:58"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 228,
+									"nodeName": "江苏省汽车工程学会",
+									"nodeNameAbbr": "JSSAE",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:33:05",
+									"updateTime": "2021-07-15 02:33:05"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 229,
+									"nodeName": "江苏省综合交通运输学会",
+									"nodeNameAbbr": "JPCTS",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:35:05",
+									"updateTime": "2021-07-15 02:35:05"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 231,
+									"nodeName": "吉林省汽车电子协会",
+									"nodeNameAbbr": "GHDQ",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:50:23",
+									"updateTime": "2021-07-15 02:50:23"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 232,
+									"nodeName": "山东电子学会",
+									"nodeNameAbbr": "SDIE",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:53:49",
+									"updateTime": "2021-07-15 02:53:49"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 233,
+									"nodeName": "浙江省物联网产业协会",
+									"nodeNameAbbr": "ZAII",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 02:59:08",
+									"updateTime": "2021-07-15 02:59:08"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 234,
+									"nodeName": "广东省道路运输协会",
+									"nodeNameAbbr": "GDRTA",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 03:02:20",
+									"updateTime": "2021-07-15 03:02:20"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": false,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 235,
+									"nodeName": "海南省标准化协会",
+									"nodeNameAbbr": "HNBX",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 03:03:42",
+									"updateTime": "2021-07-15 03:03:42"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": false,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 236,
+									"nodeName": "福州经济技术开发区物联网产业协会",
+									"nodeNameAbbr": "FZWLW",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 03:06:44",
+									"updateTime": "2021-07-15 03:06:44"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": false,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 237,
+									"nodeName": "肇庆市标准化计量协会",
+									"nodeNameAbbr": "ZQBJXH",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 03:07:48",
+									"updateTime": "2021-07-15 03:07:48"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": false,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 238,
+									"nodeName": "襄阳市机械工程学会",
+									"nodeNameAbbr": "XYMES",
+									"nodeLevel": 3,
+									"nodeParentId": 40,
+									"nodeLocationNumber": "5",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-15 03:08:58",
+									"updateTime": "2021-07-15 03:08:58"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": false,
+								"systemFlag": false
+							}
+						],
+						"organizeDescribeFlag": false,
+						"systemFlag": false
+					},
+					{
+						"node": {
+							"id": 41,
+							"nodeName": "联盟标准",
+							"nodeNameAbbr": "UNION",
+							"nodeLevel": 3,
+							"nodeParentId": 2,
+							"nodeLocationNumber": "4",
+							"nodeChinaFlag": 1,
+							"nodeSystemFlag": 0,
+							"isdelete": 0,
+							"createTime": "2021-03-10 14:06:10",
+							"updateTime": "2021-03-10 14:06:10"
+						},
+						"childNodeTree": [
+							{
+								"node": {
+									"id": 61,
+									"nodeName": "中国智能交通产业联盟",
+									"nodeNameAbbr": "ITS",
+									"nodeLevel": 3,
+									"nodeParentId": 41,
+									"nodeLocationNumber": "",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:10:40",
+									"updateTime": "2021-03-16 05:37:30"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 62,
+									"nodeName": "车载信息服务产业应用联盟",
+									"nodeNameAbbr": "TIAA",
+									"nodeLevel": 3,
+									"nodeParentId": 41,
+									"nodeLocationNumber": "4",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-03-10 14:10:47",
+									"updateTime": "2021-03-10 14:10:47"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							},
+							{
+								"node": {
+									"id": 199,
+									"nodeName": "中国智能网联汽车产业创新联盟",
+									"nodeNameAbbr": " CAICV",
+									"nodeLevel": 3,
+									"nodeParentId": 41,
+									"nodeLocationNumber": "4",
+									"nodeChinaFlag": 1,
+									"nodeSystemFlag": 0,
+									"isdelete": 0,
+									"createTime": "2021-07-12 08:11:06",
+									"updateTime": "2021-07-12 08:11:06"
+								},
+								"childNodeTree": [],
+								"organizeDescribeFlag": true,
+								"systemFlag": false
+							}
+						],
+						"organizeDescribeFlag": false,
+						"systemFlag": false
+					},
+					{
+						"node": {
+							"id": 42,
+							"nodeName": "其他地方标准",
+							"nodeNameAbbr": "OTHER",
+							"nodeLevel": 3,
+							"nodeParentId": 2,
+							"nodeLocationNumber": "3",
+							"nodeChinaFlag": 1,
+							"nodeSystemFlag": 0,
+							"isdelete": 0,
+							"createTime": "2021-03-10 14:06:38",
+							"updateTime": "2021-03-10 14:06:38"
+						},
+						"childNodeTree": [],
+						"organizeDescribeFlag": false,
+						"systemFlag": false
+					}
+				],
+				"organizeDescribeFlag": false,
+				"systemFlag": false
+			}
+		]
+	}
+}

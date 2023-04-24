@@ -1,0 +1,31 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "searchValue": null,
+      "createBy": null,
+      "createTime": "2021-03-10 16:27:32",
+      "updateBy": null,
+      "updateTime": "2022-07-05 15:41:34",
+      "remark": null,
+      "params": {},
+      "id": 2,
+      "nodeName": "中国",
+      "nodeNameAbbr": "CHINA",
+      "nodeLevel": 2,
+      "nodeParentId": 1,
+      "nodeAncestors": "0,1",
+      "nodeLocationNumber": "1",
+      "orderNum": null,
+      "nodeChinaFlag": 1,
+      "nodeSystemFlag": null,
+      "nodeTerritory": "中国",
+      "nodePlate": 1,
+      "nodeType": 1,
+      "lng": "116",
+      "lat": "39",
+      "children": []
+    }
+  ]
+}
